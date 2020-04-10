@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: "Econ 204B: Graduate Macroeconomic Theory"
-summary: Winter 2020
+linktitle: "ECON 204B: Graduate Macroeconomic Theory"
+summary: ""
 weight: 1
 
 # Page metadata.
 title: Section Slides
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "" #"2018-09-09T00:00:00Z"
+lastmod: "" #"2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
