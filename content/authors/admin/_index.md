@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a fifth year Ph.D. student in economics at the University of California, Santa Barbara.
+Welcome to my website! I am a Ph.D. student in economics at the University of California, Santa Barbara. You can find my {{% staticref "files/CV Fitzgerald 2022.pdf.pdf" %}}CV here{{% /staticref %}}.
