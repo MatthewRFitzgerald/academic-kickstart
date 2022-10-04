@@ -21,8 +21,9 @@ organizations:
 bio: "" #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Urban Economics
 - Labor Economics
+- Housing Economics
+- Urban Economics
 - Econometrics
 
 education:
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a Ph.D. student in economics at the University of California, Santa Barbara. You can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
+Welcome to my website! I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. You can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
