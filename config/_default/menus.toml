@@ -13,6 +13,11 @@
     url = "teaching/"
     weight = 20
 
+    [[main]]
+      name = "Resources"
+      url = "resources/"
+      weight = 30
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
