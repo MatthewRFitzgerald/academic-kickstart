@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of California, Santa Barbara
-    year: 2016 - Present
+    year: 2016 - December 2022
   - course: M.A. in Economics
     institution: University of California, Santa Barbara
     year: 2017
