@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Matthew R. Fitzgerald
+name: Matthew Fitzgerald
 
 # Username (this should match the folder name)
 authors:
