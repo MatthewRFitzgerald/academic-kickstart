@@ -1,5 +1,5 @@
 ---
-title: {{% staticref "files/Bankruptcy_UI.pdf" %}}"The Impact of Unemployment Benefits on Personal Bankruptcy Filings: Evidence from Pandemic Unemployment Benefit Expiration"
+title: "The Impact of Unemployment Benefits on Personal Bankruptcy Filings: Evidence from Pandemic Unemployment Benefit Expiration"
 authors:
 - Matthew Fitzgerald
 date:
