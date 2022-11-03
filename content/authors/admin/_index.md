@@ -49,9 +49,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:mfitzgerald00@ucsb.edu #'#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/MathyouFitz
+  link: linkedin.com/in/matthew-fitzgerald-463b07255
+
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/MathyouFitz
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
