@@ -51,7 +51,7 @@ social:
   link: mailto:mfitzgerald00@ucsb.edu #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin-in
   icon_pack: fab
-  link: linkedin.com/in/matthew-fitzgerald-463b07255
+  link: https://www.linkedin.com/in/matthew-fitzgerald-463b07255/
 
 #- icon: twitter
 #  icon_pack: fab
