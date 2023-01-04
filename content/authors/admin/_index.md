@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. I am currently on the job market and will be attending the NABE Tech conference in Seattle, Washington. You can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
+Welcome to my website! I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. I am currently on the job market and you can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
