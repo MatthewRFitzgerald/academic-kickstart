@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. I am currently on the job market and you can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
+Welcome to my website! I recently received my Ph.D. in Economics from the University of California, Santa Barbara. I am currently on the job market and you can find my {{% staticref "files/CV_Fitzgerald.pdf" %}}CV here{{% /staticref %}}.
