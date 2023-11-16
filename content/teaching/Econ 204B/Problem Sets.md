@@ -15,14 +15,3 @@ menu:
     name: Problem Sets
     weight: 2
 ---
-
-
-{{% staticref "files/Econ 204B PS1.pdf" %}}Problem Set 1{{% /staticref %}}
-
-{{% staticref "files/Econ 204B PS2.pdf" %}}Problem Set 2{{% /staticref %}}   {{% staticref "files/Econ 204B PS2 Solutions.pdf" %}}(Solutions){{% /staticref %}}
-
-{{% staticref "files/Econ 204B PS3.pdf" %}}Problem Set 3{{% /staticref %}}   {{% staticref "files/Econ 204B PS3 Solutions.pdf" %}}(Solutions){{% /staticref %}}
-
-{{% staticref "files/Econ 204B PS4.pdf" %}}Problem Set 4{{% /staticref %}}   {{% staticref "files/Econ 204B PS4 Solutions.pdf" %}}(Solutions){{% /staticref %}}
-
-{{% staticref "files/Econ 204B PS5.pdf" %}}Problem Set 5{{% /staticref %}}   {{% staticref "files/204B PS5 Solutions.pdf" %}}(Solutions){{% /staticref %}}
