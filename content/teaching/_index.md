@@ -7,13 +7,3 @@ header:
   caption: ""
   image: ""
 ---
-
-<br />
-
-ECON 9: Introduction to Economics
-
-ECON 2: Principles of Macroeconomics
-
-PSTAT 109: Statistics for Economics
-
-ECON 101: Intermediate Macroeconomic Theory
